@@ -1,5 +1,3 @@
-Here’s a README for your Product Management System in Java (GUI-based):
-
 Product Management System
 A simple Java Swing-based GUI application for managing products in your home. The system allows you to:
 ✅ Add, remove, and search for products
